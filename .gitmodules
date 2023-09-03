@@ -1,0 +1,6 @@
+[submodule "plugins/tmux-themepack"]
+	path = plugins/tmux-themepack
+	url = https://github.com/jimeh/tmux-themepack.git
+[submodule "plugins/tmux-resurrect"]
+	path = plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect.git
